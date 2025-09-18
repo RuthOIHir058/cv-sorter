@@ -1,0 +1,10 @@
+langchain
+sentence-transformers
+faiss-cpu
+pdfminer.six
+python-docx
+streamlit
+python-dotenv
+pandas
+scipy
+openai
