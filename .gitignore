@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Environment files
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker
+*.pid
+*.sock
+
+# Data - keep only anonymized/synthetic sample files
+data/resumes/*
+!data/resumes/README.md

@@ -1,0 +1,17 @@
+{
+  "job_description": "data/sample_jd.txt",
+  "resumes": [
+    { "id": "resume-sample-11", "relevant": true, "rank": 1 },
+    { "id": "resume-sample-7",  "relevant": true, "rank": 2 },
+    { "id": "resume-sample-9",  "relevant": true, "rank": 3 },
+    { "id": "resume-sample-6",  "relevant": false, "rank": 6 },
+    { "id": "resume-sample-5",  "relevant": false, "rank": 7 },
+    { "id": "resume-sample-4",  "relevant": false, "rank": 8 },
+    { "id": "resume-sample-12", "relevant": false, "rank": 9 },
+    { "id": "resume-sample-8",  "relevant": false, "rank": 10 },
+    { "id": "resume-sample-2",  "relevant": false, "rank": 11 },
+    { "id": "resume-sample-3",  "relevant": false, "rank": 12 },
+    { "id": "resume-sample-10", "relevant": false, "rank": 13 },
+    { "id": "resume-sample-13", "relevant": false, "rank": 14 }
+  ]
+}

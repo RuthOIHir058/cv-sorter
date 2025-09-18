@@ -1,0 +1,12 @@
+Job Title: Data Scientist
+
+Responsibilities:
+- Build and deploy machine learning models.
+- Analyze large datasets to find patterns and insights.
+- Collaborate with engineering and product teams.
+
+Requirements:
+- 3+ years of experience in Python programming.
+- Strong background in statistics and machine learning.
+- Familiarity with deep learning frameworks (PyTorch, TensorFlow).
+- Excellent communication skills.
