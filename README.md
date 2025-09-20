@@ -49,8 +49,7 @@ cv-sorter/
 
 ## ⚙️ Installation & Setup
 
-### 1. Clone the repository
-```bash
+1. Clone the repository
 git clone https://github.com/RuthOIHir058/cv-sorter.git
 cd cv-sorter
 2. Create virtual environment
